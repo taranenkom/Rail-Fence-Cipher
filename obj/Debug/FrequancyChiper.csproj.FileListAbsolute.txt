@@ -1,0 +1,8 @@
+D:\Visual Studio Projects\C#\FrequancyChiper\bin\Debug\FrequancyChiper.exe.config
+D:\Visual Studio Projects\C#\FrequancyChiper\bin\Debug\FrequancyChiper.exe
+D:\Visual Studio Projects\C#\FrequancyChiper\bin\Debug\FrequancyChiper.pdb
+D:\Visual Studio Projects\C#\FrequancyChiper\obj\Debug\FrequancyChiper.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\C#\FrequancyChiper\obj\Debug\FrequancyChiper.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\C#\FrequancyChiper\obj\Debug\FrequancyChiper.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\FrequancyChiper\obj\Debug\FrequancyChiper.exe
+D:\Visual Studio Projects\C#\FrequancyChiper\obj\Debug\FrequancyChiper.pdb

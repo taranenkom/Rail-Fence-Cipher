@@ -1,0 +1,17 @@
+3
+1500000
+D:\Visual Studio Projects\C#\FrequancyChiper\big.txt
+D:\Visual Studio Projects\C#\FrequancyChiper\output2.txt
+1
+
+3
+5
+D:\Visual Studio Projects\C#\FrequancyChiper\output2.txt
+D:\Visual Studio Projects\C#\FrequancyChiper\output2_Decrypted.txt
+2
+
+3
+5
+D:\Visual Studio Projects\C#\FrequancyChiper\big_half.txt
+D:\Visual Studio Projects\C#\FrequancyChiper\output2.txt
+1
